@@ -13,3 +13,5 @@
 	- python-dateutil
 	- gensim
 	- keras
+
+- The LSTM model used in *"Compass: Spatio Temporal Sentiment Analysis of US Election What Twitter Says!",* **SIGKDD 2017** [Paper Link](https://dl.acm.org/citation.cfm?id=3098053).
